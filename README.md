@@ -129,14 +129,24 @@ Interactive dashboard that turns raw sales data into clear business insights.
 
 </div>
 
-### 🏅 Trophies
+## 🏆 Achievements & Recognition
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sivaraman1612&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" />
+| 🥉 Achievement | 📌 Recognition |
+|:---|:---|
+| **3rd Place — TechSprint** | GDGoC 2025 Hacks |
+| **Top 5% — NPTEL** | Design Thinking, IIT Madras |
+| **3rd Place — Dashboard Making** | College-level competition |
 
 </div>
 
+### 📜 Certifications
+
+- 🐍 Infosys — Basics of Python
+- 🛰️ ISRO — AI/ML (Basic)
+- 💡 NPTEL — Design Thinking
+- 🎓 Udemy — Python Bootcamp
 --- 
 
 ### 📈 30-Day Commit Performance
