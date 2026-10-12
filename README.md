@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sivaraman%20P&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20(AI%20%26%20ML)%20Student&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://raw.githubusercontent.com/sivaraman1612/sivaraman1612/main/header.svg" width="100%" alt="Sivaraman P - Computer Science (AI & ML) Student"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Sivaraman;AI+%26+ML+Student+%40+Sona+College+of+Technology;Python+%7C+Java+%7C+Web+Dev+%7C+Power+BI;Hackathon+Winner+%F0%9F%8F%86;Problem+Solver+%26+Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG" />
