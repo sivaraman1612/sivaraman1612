@@ -137,15 +137,18 @@ Interactive dashboard that turns raw sales data into clear business insights.
 
 </div>
 
-### 📈 Contribution Graph
+--- 
+
+### 📈 30-Day Commit Performance
 
 <div align="center">
   <img
-    src="https://ghchart.rshah.org/36BCF7/sivaraman1612"
-    alt="Sivaraman's GitHub Contributions"
+    src="https://raw.githubusercontent.com/sivaraman1612/sivaraman1612/output/commit-activity.svg"
+    alt="30-day GitHub commit activity"
     width="100%"
   />
 </div>
+
 ---
 
 ## 🐍 Contribution Snake
