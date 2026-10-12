@@ -168,7 +168,7 @@ Interactive dashboard that turns raw sales data into clear business insights.
 <!-- Requires the snake GitHub Action (see setup instructions) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sivaraman1612/sivaraman1612/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sivaraman1612/sivaraman1612/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sivaraman1612/sivaraman1612/output/github-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/sivaraman1612/sivaraman1612/output/github-snake-dark.svg" />
 </picture>
 
