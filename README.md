@@ -183,7 +183,6 @@ Interactive dashboard that turns raw sales data into clear business insights.
   />
 </picture>
 
-
 </div>
 
 ---
