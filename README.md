@@ -140,15 +140,12 @@ Interactive dashboard that turns raw sales data into clear business insights.
 ### 📈 Contribution Graph
 
 <div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=sivaraman1612&theme=github"
-  width="100%"
-  alt="GitHub Activity Graph"
-/>
-
+  <img
+    src="https://ghchart.rshah.org/36BCF7/sivaraman1612"
+    alt="Sivaraman's GitHub Contributions"
+    width="100%"
+  />
 </div>
-
 ---
 
 ## 🐍 Contribution Snake
