@@ -143,10 +143,10 @@ Interactive dashboard that turns raw sales data into clear business insights.
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/sivaraman1612/sivaraman1612/output/commit-activity.svg"
-    alt="30-day GitHub commit activity"
-    width="100%"
-  />
+  src="https://raw.githubusercontent.com/sivaraman1612/sivaraman1612/output/commit-activity.svg"
+  alt="30-day GitHub commit performance"
+  width="100%"
+ />
 </div>
 
 ---
