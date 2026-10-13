@@ -6,9 +6,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Sivaraman;AI+%26+ML+Student+%40+Sona+College+of+Technology;Python+%7C+Java+%7C+Web+Dev+%7C+Power+BI;Hackathon+Winner+%F0%9F%8F%86;Problem+Solver+%26+Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sivaraman1612&label=Profile%20Views&color=00C9FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sivaraman1612?label=Followers&style=for-the-badge&logo=github&color=8957E5" alt="GitHub Followers" />
+  <img
+    src="https://komarev.com/ghpvc/?username=sivaraman1612&label=Profile%20Views&color=00C9FF&style=for-the-badge"
+    alt="Profile Views"
+  />
+  <img
+    src="https://img.shields.io/github/followers/sivaraman1612?label=Followers&style=for-the-badge&logo=github&color=8957E5"
+    alt="GitHub Followers"
+  />
 </div>
 
 
@@ -204,29 +211,19 @@ Interactive dashboard that turns raw sales data into clear business insights.
 ---
 
 
+
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/sivaraman1612/sivaraman1612/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/sivaraman1612/sivaraman1612/output/github-snake-dark.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/sivaraman1612/sivaraman1612/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
 </div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="mailto:sivaraman2701@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
-<a href="https://github.com/sivaraman1612"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<!-- Add your LinkedIn below and remove these comment marks -->
-<!-- <a href="https://www.linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7B93E&center=true&vCenter=true&width=500&lines=Open+to+collaborations+%26+internships+%F0%9F%A4%9D;Let's+build+something+awesome+together!" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
