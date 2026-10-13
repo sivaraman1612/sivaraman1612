@@ -238,6 +238,9 @@ I'm looking for opportunities to apply my technical knowledge, work on real-worl
 <a href="https://github.com/sivaraman1612">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+<a href="https://www.linkedin.com/in/sivaraman2007/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 <br/><br/>
 
