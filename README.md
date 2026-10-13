@@ -70,6 +70,20 @@ me = Sivaraman()
 <img src="https://img.shields.io/badge/Machine%20Learning-412991?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/Data%20Visualization-36BCF7?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 
+### 🧠 AI Tools & AI Assistants
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/Qwen-615EFF?style=for-the-badge&logo=alibabacloud&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+
+</div>
+
+**AI Skills:** AI-Assisted Coding · Code Debugging · Prompt Engineering · AI-Powered Development
+
 ### 🧠 Core Computer Science Concepts
 
 <img src="https://img.shields.io/badge/Data%20Structures-007ACC?style=for-the-badge" />
