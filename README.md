@@ -208,9 +208,10 @@ Interactive dashboard that turns raw sales data into clear business insights.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sivaraman1612/sivaraman1612/output/github-snake-dark.svg" alt="GitHub contribution snake - dark theme" width="100%" />
+<img src="https://raw.githubusercontent.com/sivaraman1612/sivaraman1612/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 
 </div>
+
 ---
 
 ## 📫 Let's Connect
