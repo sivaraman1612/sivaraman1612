@@ -180,18 +180,6 @@ An interactive Power BI dashboard that converts supermarket sales data into usef
 
 </div>
 
----
-
-## 📈 30-Day Commit Performance
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sivaraman1612/sivaraman1612/output/commit-activity.svg" alt="30-Day GitHub Commit Activity" width="100%"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
