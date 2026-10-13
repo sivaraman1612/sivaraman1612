@@ -161,30 +161,14 @@ Interactive dashboard that turns raw sales data into clear business insights.
 
 ---
 
+
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<!-- Requires the snake GitHub Action (see setup instructions) -->
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sivaraman1612/sivaraman1612/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sivaraman1612/sivaraman1612/output/github-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/sivaraman1612/sivaraman1612/output/github-snake.svg"
-    alt="GitHub contribution snake"
-    width="100%"
-  />
-</picture>
+<img src="https://raw.githubusercontent.com/sivaraman1612/sivaraman1612/output/github-snake-dark.svg" alt="GitHub contribution snake - dark theme" width="100%" />
 
 </div>
-
 ---
 
 ## 📫 Let's Connect
