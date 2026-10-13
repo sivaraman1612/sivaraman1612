@@ -7,7 +7,7 @@
 </a>
 
 <br/>
-<img src="https://img.shields.io/github/followers/sivaraman1612?label=Followers&style=for-the-badge&logo=github&color=24292e" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=sivaraman1612&label=PROFILE%20VIEWS&color=00C9FF&style=for-the-badge" alt="GitHub Profile Views" />
 <img src="https://img.shields.io/github/followers/sivaraman1612?label=Followers&style=for-the-badge&logo=github&color=24292e" alt="followers"/>
 
 </div>
