@@ -227,3 +227,34 @@ Interactive dashboard that turns raw sales data into clear business insights.
     />
   </picture>
 </div>
+
+##---
+
+## 🤝 Open to Work & Internships
+
+I'm actively looking for **internship opportunities and entry-level roles** in Software Development, AI/ML, and Data Analytics.
+
+- 💼 Open to internships and job opportunities
+- 🤖 Interested in AI/ML and software engineering
+- 🚀 Ready to contribute, collaborate, and learn
+- 🌱 Always looking for opportunities to grow
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:sivaraman2701@outlook.com">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/sivaraman1612">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Open+to+Internships+%26+Job+Opportunities;Let's+Build+Something+Awesome+Together!" alt="Open to opportunities"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="Footer banner"/>
+
