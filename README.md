@@ -216,17 +216,6 @@ An interactive Power BI dashboard that converts supermarket sales data into usef
 
 ---
 
-## 💼 Open to Work & Internships
-
-I'm looking for opportunities to apply my technical knowledge, work on real-world projects, and grow as a software developer.
-
-- 💼 Open to **internships and suitable entry-level opportunities**
-- 💻 Interested in **Software Development and Engineering**
-- 🤖 Interested in **AI/ML and Data Analytics**
-- 🤝 Open to technical collaborations and team projects
-- 🚀 Ready to learn, contribute, and solve real-world problems
-
----
 
 ## 📫 Let's Connect
 
