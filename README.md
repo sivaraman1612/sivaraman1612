@@ -228,16 +228,7 @@ Interactive dashboard that turns raw sales data into clear business insights.
   </picture>
 </div>
 
-##---
 
-## 🤝 Open to Work & Internships
-
-I'm actively looking for **internship opportunities and entry-level roles** in Software Development, AI/ML, and Data Analytics.
-
-- 💼 Open to internships and job opportunities
-- 🤖 Interested in AI/ML and software engineering
-- 🚀 Ready to contribute, collaborate, and learn
-- 🌱 Always looking for opportunities to grow
 
 ## 📫 Let's Connect
 
