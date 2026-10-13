@@ -44,21 +44,54 @@ me = Sivaraman()
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack & Technical Skills
+
 <div align="center">
 
-**Languages**
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts&theme=dark" />
 
-**Web Development**
+### 🌐 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vite,tailwind&theme=dark" />
 
-**Data, Cloud & Tools**
+### ⚙️ Backend Development & Databases
 
-<img src="https://skillicons.dev/icons?i=powerbi,firebase,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mysql,mongodb&theme=dark" />
+
+### 🤖 AI, Machine Learning & Data Analytics
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,python&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Machine%20Learning-412991?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Visualization-36BCF7?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+
+### 🧠 Core Computer Science Concepts
+
+<img src="https://img.shields.io/badge/Data%20Structures-007ACC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Algorithms-6A5ACD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Networks-00897B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DBMS-795548?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Object--Oriented%20Programming-FF7043?style=for-the-badge" />
+
+### 🔌 Internet of Things (IoT)
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Sensor%20Integration-607D8B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Real--Time%20Monitoring-2E7D32?style=for-the-badge" />
+
+### 🧰 Developer Tools & Cloud
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker&theme=dark" />
 
 </div>
+
+**Areas of Interest:** Software Development · AI/ML · Data Analytics · Backend Development · Computer Networks · IoT Systems
 
 **Core Concepts:** `Data Structures` · `Dashboard Making` · `Data Visualization` · `IoT` · `AI Tools`
 
