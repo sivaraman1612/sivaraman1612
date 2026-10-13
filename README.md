@@ -129,9 +129,6 @@ An IoT-based project that monitors water quality parameters and aims to identify
 
 **Tech Stack:** `Python` `AI/ML` `Firebase` `IoT` `ESP32`
 
-    </td>
-    <td width="50%" valign="top">
-
 ### 📊 Supermarket Sales Dashboard
 
 An interactive Power BI dashboard that converts supermarket sales data into useful business insights.
@@ -144,7 +141,7 @@ An interactive Power BI dashboard that converts supermarket sales data into usef
 
 **Tech Stack:** `Power BI` `Data Visualization` `Data Analytics`
 
-    </td>
+    
   </tr>
 </table>
 
