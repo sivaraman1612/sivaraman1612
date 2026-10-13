@@ -39,9 +39,6 @@ me = Sivaraman()
 - 🌱 Always learning, always building
 
 ---
-
-## 🛠️ Tech Stack
-
 ## 🛠️ Tech Stack & Technical Skills
 
 <div align="center">
